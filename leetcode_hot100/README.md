@@ -17,12 +17,13 @@
 
 ## 题目索引
 
-两道题的第一次尝试、错误原因和最终代码已整理到笔记；掌握情况与复习日期仍以[遗忘记录表](forgetting_log.md)中的实际记录为准。
+已记录题目的尝试过程、错误原因和最终代码；掌握情况与复习日期以[遗忘记录表](forgetting_log.md)中的实际记录为准。
 
 | 题号 | 题目 / 网页练习 | 分类 | 笔记 | 学习状态 |
 | --- | --- | --- | --- | --- |
 | 0001 | [两数之和](https://leetcode.cn/problems/two-sum/) | 哈希 | [0001_two_sum.md](0001_two_sum.md) | 已记录学习过程 |
 | 0049 | [字母异位词分组](https://leetcode.cn/problems/group-anagrams/) | 哈希 | [0049_group_anagrams.md](0049_group_anagrams.md) | 已记录学习过程 |
+| 0128 | [最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | 哈希 | [0128_longest_consecutive_sequence.md](0128_longest_consecutive_sequence.md) | Python 3 已通过，待复习 |
 
 ## 新增一题
 
