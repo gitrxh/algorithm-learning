@@ -1,7 +1,7 @@
 # algorithm-learning
 study leetcode &amp;  algorithms
 
-'''
+'''c
 algorithm-learning/
 │
 ├── README.md
