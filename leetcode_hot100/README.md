@@ -17,11 +17,12 @@
 
 ## 题目索引
 
-“待记录”表示还未录入个人练习结果，不预设是否做过。复习日期和结果统一放在[遗忘记录表](forgetting_log.md)。
+两道题的第一次尝试、错误原因和最终代码已整理到笔记；掌握情况与复习日期仍以[遗忘记录表](forgetting_log.md)中的实际记录为准。
 
 | 题号 | 题目 / 网页练习 | 分类 | 笔记 | 学习状态 |
 | --- | --- | --- | --- | --- |
-| 0001 | [两数之和](https://leetcode.cn/problems/two-sum/) | 哈希 | [0001_two_sum.md](0001_two_sum.md) | 待记录 |
+| 0001 | [两数之和](https://leetcode.cn/problems/two-sum/) | 哈希 | [0001_two_sum.md](0001_two_sum.md) | 已记录学习过程 |
+| 0049 | [字母异位词分组](https://leetcode.cn/problems/group-anagrams/) | 哈希 | [0049_group_anagrams.md](0049_group_anagrams.md) | 已记录学习过程 |
 
 ## 新增一题
 
