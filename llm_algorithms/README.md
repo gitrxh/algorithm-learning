@@ -21,6 +21,7 @@
 
 | 主题 | 笔记入口 | 重点 | 学习状态 |
 | --- | --- | --- | --- |
+| ReLU | [PyTorch 基础：ReLU](pytorch_basics/relu.md) | 逐元素运算、`clamp` 与梯度 | 已记录学习过程 |
 | Scaled Dot-Product Attention | [SDPA](attention/sdpa.md) | 缩放、softmax 维度、mask | 待记录 |
 | Multi-Head Attention | [MHA](attention/mha.md) | 多头拆分与合并、输出投影 | 待记录 |
 | Multi-Query Attention | [MQA](attention/mqa.md) | 所有 query 头共享一组 K/V | 待记录 |
