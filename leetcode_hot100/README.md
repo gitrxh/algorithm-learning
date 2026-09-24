@@ -24,6 +24,7 @@
 | 0001 | [两数之和](https://leetcode.cn/problems/two-sum/) | 哈希 | [0001_two_sum.md](0001_two_sum.md) | 已记录学习过程 |
 | 0049 | [字母异位词分组](https://leetcode.cn/problems/group-anagrams/) | 哈希 | [0049_group_anagrams.md](0049_group_anagrams.md) | 已记录学习过程 |
 | 0128 | [最长连续序列](https://leetcode.cn/problems/longest-consecutive-sequence/) | 哈希 | [0128_longest_consecutive_sequence.md](0128_longest_consecutive_sequence.md) | Python 3 已通过，待复习 |
+| 0283 | [移动零](https://leetcode.cn/problems/move-zeroes/) | 数组 | [0283_move_zeroes.md](0283_move_zeroes.md) | 独立完成，已记录 |
 
 ## 新增一题
 
